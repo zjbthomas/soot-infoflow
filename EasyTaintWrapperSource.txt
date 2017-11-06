@@ -559,4 +559,5 @@
 
 <java.net.URLEncoder: java.lang.String encode(java.lang.String,java.lang.String)>
 <java.lang.String: byte[] getBytes()>
+<java.security.MessageDigest: void update(byte[])>
 <org.json.JSONObject: org.json.JSONObject put(java.lang.String,java.lang.Object)>
