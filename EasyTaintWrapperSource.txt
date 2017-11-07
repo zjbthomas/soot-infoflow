@@ -3,6 +3,7 @@
 ^java.
 ^org.apache.http.
 ^org.joda.time.
+^org.json.
 
 <java.util.Stack: java.lang.Object push(java.lang.Object)>
 
