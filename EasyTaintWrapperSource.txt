@@ -562,3 +562,7 @@
 <java.lang.String: byte[] getBytes()>
 <java.security.MessageDigest: void update(byte[])>
 <org.json.JSONObject: org.json.JSONObject put(java.lang.String,java.lang.Object)>
+
+<java.lang.CharSequence: java.lang.String toString()>
+
+<java.io.OutputStreamWriter: void write(java.lang.String)>
